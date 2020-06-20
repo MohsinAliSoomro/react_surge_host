@@ -12,6 +12,7 @@ function App() {
       <h1 className="display-4">Counting App for users</h1>
         <h1>{count}</h1>
         <Button color="success" onClick={countNum} >click</Button>
+        <p>Developed by : Mohsin Ali</p>
     </div>
   );
 }
